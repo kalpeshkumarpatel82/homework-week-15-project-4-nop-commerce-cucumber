@@ -15,7 +15,8 @@ import org.junit.runner.RunWith;
         glue = "com/nopcommerce/demo",
         plugin = {"pretty", "html:target/cucumber-report/cucumber.html",
                 "com.cucumber.listener.ExtentCucumberFormatter:target/Extent_Reports/report.html"
-        }
+        },
+        tags = "@regression"
 )
 public class TestRunner {
 

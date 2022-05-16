@@ -1,3 +1,4 @@
+@regression
 Feature: Login test of demo.nopcommerce.com
 
 # Verifying various login functionality scenarios (Valid and Invalid)

@@ -1,3 +1,4 @@
+@regression
 Feature: Register functionality of demo.nopcommerce.com
 
   # Verifying various Register functionality scenario

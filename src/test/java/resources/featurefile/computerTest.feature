@@ -1,3 +1,4 @@
+@regression
 Feature: Computer page test
 
   # Verifying the functionality of the computer page

@@ -12,7 +12,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage extends Utility {
-    private static final Logger log = LogManager.getLogger(HomePage.class.getName());
+    private static final Logger log = LogManager.getLogger(LoginPage.class.getName());
 
     public LoginPage() {
         PageFactory.initElements(driver, this);
